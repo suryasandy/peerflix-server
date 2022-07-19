@@ -62,6 +62,9 @@ forever start $(which peerflix-server)
 ```
 
 You might also want to enable logging -- see the [docs](https://github.com/foreverjs/forever#command-line-usage).
+##Deploy
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suryasandy/peerflix-server)
 
 ## FAQ
 
